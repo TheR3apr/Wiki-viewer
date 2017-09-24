@@ -1,0 +1,29 @@
+html body{
+  background-color: beige;
+}
+#row {
+  display: table;
+  margin: 10px auto auto auto;
+}
+#inputBox {
+  display:inline;
+  float:center;
+  width: 250px;
+}
+#searchBtn {
+  display:inline;
+}
+#randomBtn {
+  display:inline;
+}
+footer {
+  margin-top:300px;
+  
+}
+h3 {
+  margin-top: 150px;
+}
+.myText {
+  font-family: "Times New Roman", Times, serif;
+  color: brown;
+}
